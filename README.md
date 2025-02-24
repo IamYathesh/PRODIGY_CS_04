@@ -1,2 +1,12 @@
 # PRODIGY_CS_04
-Python implementation of Simple Keylogger to record keystrokes for monitoring and analysis, designed for ethical and educational purposes
+
+Python-based keylogger that records keystrokes for monitoring and analysis. Designed for ethical and educational purposes only.  
+
+Features  
+- Logs all keystrokes in the background  
+- Saves recorded data to a file  
+- Lightweight and easy to use  
+
+Prerequisites  
+- pynput Library
+- pip install pynput
